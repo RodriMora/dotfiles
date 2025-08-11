@@ -1,0 +1,18 @@
+# change window focus within space
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - h : yabai -m window --focus west
+alt - l : yabai -m window --focus east
+
+alt - b : open -a 'Brave Browser'
+alt - g : open -a 'Ghostty'
+alt - f : open -a 'Firefox'
+alt - m : open -a 'Finder'
+alt - p : open -a 'Parsec'
+alt - o : open -a 'Obsidian'
+alt - t : open -a 'Microsoft Teams'
+alt - s : open -a 'Signal'
+alt - w : open -a 'Whatsapp'
+alt - d : open -a 'Discord'
+
+
